@@ -1,0 +1,184 @@
+ATA—Advanced Technology Attachment
+ASCII—American Standard Code for Information Interchange
+ARPANET—Advanced Research Projects Agency Network
+Ajax—Asynchronous JavaScript and XML
+ASP—Active Server Pages/Application Service Provider
+API—Application Programming Interface
+ATA—Advanced Technology Attachment
+ATM—Asynchronous Transfer Mode
+BiDi—Bi-Directional
+bin—binary
+BAL—Basic Assembly Language
+BASIC—Beginner's All-Purpose Symbolic Instruction Code
+BIOS—Basic Input Output System
+bps—bits per second
+BCD—Binary Coded Decimal
+Blog—Web Log
+BMP—Basic Multilingual Plane
+BT—BitTorrent / Bluetooth
+BW—Bandwidth
+CAD—Computer-Aided Design
+CPU—Central Processing Unit
+CIM—Common Information Model
+CRS—Computer Reservations System
+CRT—Cathode Ray Tube
+CLI—Command Line Interface
+CDMA—Code Division Multiple Access
+CMOS—Complementary Metal-Oxide Semiconductor
+CSI—Common System Interface
+CD-R—CD-Recordable
+CD-ROM—CD Read-Only Memory
+CD-RW—CD-Rewritable
+CMOS—Complementary Metal-Oxide Semiconductor
+CSV—Comma-Separated Values
+COBOL—Common Business-Oriented Language
+CGI—Common Gateway Interface /Computer-Generated Imagery
+DAO—Data Access Objects
+DHTML—Dynamic Hypertext Markup Language
+DAT—Digital Audio Tape
+DB—Database
+DIVX—Digital Video Express
+DVD—Digital Video Disc
+DVD-R—DVD-Recordable
+DVD-ROM—DVD-Read Only Memory
+DVD-RW—DVD-Rewritable
+DOS—Disk Operating System
+DDR—Double Data Rate
+DNS—Domain Name System 
+EEPROM—Electronically Erasable Programmable Read-Only Memory
+ENIAC—Electronic Numerical Integrator And Computer
+EBCDIC—Extended Binary Coded Decimal Interchange Code
+EPROM—Erasable Programmable Read-Only Memory
+ESD—Electrostatic Discharge
+FAT—File Allocation Table
+FAQ—Frequently Asked Questions
+FDD—Floppy Disk Drive
+FDMA—Frequency-Division Multiple Access.
+FS—File System
+FSB—Front Side Bus
+FTP—File Transfer Protocol
+Gb—Gigabit / GB—Gigabyte
+GIF—Graphics Interchange Format
+GPL—General Public License
+GPRS—General Packet Radio Service
+HD—High Density
+HDD—Hard Disk Drive
+HD DVD—High Definition DVD
+HP—Hewlett-Packard
+HT—Hyper Threading
+HTM—Hierarchical Temporal Memory
+HTML—Hypertext Markup Language
+HTTP—Hypertext Transfer Protocol
+Hz—Hertz
+IBM—International Business Machines.
+IC—Integrated Circuit
+ICMP—Internet Control Message Protocol
+ICT—Information and Communication Technology
+IDE—Integrated Development Environment /Integrated Drive Electronics
+IE—Internet Explorer
+IIS—Internet Information Services
+IM—Instant Messaging
+IMAP—Internet Message Access Protocol
+I/O—Input/Output
+IP—Intellectual Property /Internet Protocol
+IrDA—Infrared Data Association
+ISA—Industry Standard Architecture /Instruction Set Architecture
+iSCSI—Internet Small Computer System Interface
+ISDN—Integrated Services Digital Network
+ISP—Internet Service Provider
+IT—Information Technology
+J2EE—Java 2 Enterprise Edition
+J2ME—Java 2 Micro Edition
+J2SE—Java 2 Standard Edition
+JDK—Java Development Kit
+JPEG—Joint Photographic Experts Group
+JRE—Java Runtime Environment
+JS—JavaScript
+KB—Keyboard /Kilobyte /Knowledge Base
+Kb—Kilobit
+kHz—Kilohertz
+KVM—Keyboard, Video, Mouse
+LED—Light-Emitting Diode
+MAN—Metropolitan Area Network
+Mb—Megabit
+MB—Megabyte
+MBR—Master Boot Record
+MDI—Multiple Document Interface
+MHz—Megahertz 
+MIDI—Musical Instrument Digital Interface
+MMU—Memory Management Unit
+MMX—Multi-Media Extensions
+MNG—Multiple-image Network Graphics
+MPEG—Motion Pictures Experts Group
+MOSFET—Metal-Oxide Semiconductor Field Effect Transistor
+MPEG—Motion Pictures Experts Group
+MS—Microsoft
+MS-DOS—Microsoft DOS
+NIC—Network Interface Controller
+NTFS—NT Filesystem
+NVRAM—Non-Volatile Random Access Memory
+OO—Object-Oriented
+OS—Open Source /Operating System
+P2P—Peer-To-Peer
+PAN—Personal Area Network
+PATA—Parallel ATA
+PC—Personal Computer
+PCB—Printed Circuit Board
+PC DOS—Personal Computer Disk Operating System
+PCI—Peripheral Component Interconnect
+PCIe—PCI Express
+PERL—Practical Extraction and Reporting Language
+PGA—Pin Grid Array
+PHP—PHP: Hypertext Preprocessor
+PIC—Peripheral Interface Controller /Programmable Interrupt Controller
+PLC—Power Line Communication /Programmable Logic Controller
+POST—Power-On Self Test
+PPI—Pixels Per Inch
+PS/2—Personal System/2
+PSU—Power Supply Unit
+RAD—Rapid Application Development
+RAM—Random Access Memory
+RAID—Redundant Array of Inexpensive Disks
+RAIT—Redundant Array of Inexpensive Tapes
+RF—Radio Frequency
+RGB—Red, Green, Blue (RGBA—Red, Green, Blue, Alpha)
+RIP—Raster Image Processor /Routing Information Protocol
+ROM—Read Only Memory
+ROM-DOS—Read Only Memory - Disk Operating System
+SATA—Serial ATA
+SCSI—Small Computer System Interface
+SDRAM—Synchronous Dynamic Random Access Memory
+SFTP—Secure FTP /Simple File Transfer Protocol
+SHDSL—Single-pair High-speed Digital Subscriber Line
+SIMD—Single Instruction, Multiple Data
+SIMM—Single Inline Memory Module
+SPI—Serial Peripheral Interface
+SPI—Stateful Packet Inspection
+SVG—Scalable Vector Graphics
+SVGA—Super Video Graphics Array
+TB—TeraByte
+TCP/IP—Transmission Control Protocol/Internet Protocol
+TDMA—Time Division Multiple Access
+tmp—temporary
+TTF—TrueType Font
+TTL—Transistor-Transistor Logic
+UPS—Uninterruptible Power Supply
+URI—Uniform Resource Identifier
+URL—Uniform Resource Locator
+USB—Universal Serial Bus
+UTF—Unicode Transformation Format
+UTP—Unshielded Twisted Pair
+VB—Visual Basic
+VBA—Visual Basic for Applications
+VBS—Visual Basic Script
+VPN—Virtual Private Network
+VPU—Visual Processing Unit
+WAN—Wide Area Network
+WAP—Wireless Access Point /Wireless Application Protocol
+Wi-Fi—Wireless Fidelity
+WLAN—Wireless Local Area Network
+WMA—Windows Media Audio
+WMV—Windows Media Video
+WPAN—Wireless Personal Area Network
+XML—eXtensible Markup Language
+Y2K—Year Two Thousand
